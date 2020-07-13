@@ -10,4 +10,4 @@ def fibo(my_num):
     elif my_num == 0 :
         return 0
 
-print(fibo(1))
+print(fibo(10))
